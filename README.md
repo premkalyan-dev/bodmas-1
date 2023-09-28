@@ -1,2 +1,1 @@
-# bodmas-1
-sample test 
+python mini project
